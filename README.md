@@ -45,8 +45,8 @@ Requests are made responsibly with appropriate download delays to avoid overload
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/truecrime-knowledge-base.git
-cd truecrime-knowledge-base
+git clone git@github.com:LinBlink/truecrime-spider.git
+cd truecrime-spider
 ```
 
 2. Create and activate a virtual environment:
@@ -135,12 +135,6 @@ truecrime-knowledge-base/
 * Background image extraction from Elementor sections
 * Build a knowledge graph or analytics dashboard for true crime cases
 * API endpoints for front-end applications
-
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
