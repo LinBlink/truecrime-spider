@@ -1,6 +1,5 @@
 
----
-# TrueCrime Knowledge Base
+# truecrime-spider
 
 A Python Scrapy project to crawl and extract case data from [The True Crime Database](https://www.thetruecrimedatabase.com).
 This project builds a structured dataset of true crime cases, including case titles, main characters, content, images, captions, videos, authors, and publication dates.
